@@ -15,7 +15,7 @@
 
 ### Live preview
 
-[Click Here](https://bhornbhaya.github.io/guess-the-number/)
+[Click Here](https://bhornbhaya.github.io/the-pig-game/)
 
 ### Screenshot
 
